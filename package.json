@@ -1,0 +1,67 @@
+{
+  "name": "react-shapebase",
+  "version": "1.0.0",
+  "description": "Shapebase is a React component library based on the fundamentals of shapes. It makes for easy web development, creation of great user interfaces and development of Single Page Applications.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel lib -d build",
+    "lint": "eslint lib/**; exit 0",
+    "lint:watch": "esw -w lib/**",
+    "prepublish": "npm run build",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeddyAndersson/react-shapebase.git"
+  },
+  "keywords": [
+    "react",
+    "shapes",
+    "shapebase",
+    "components",
+    "react-component",
+    "Ui library",
+    "toolkit"
+  ],
+  "author": "Teddy Andersson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeddyAndersson/react-shapebase/issues"
+  },
+  "homepage": "https://github.com/TeddyAndersson/react-shapebase#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.5.7",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-transition-group": "^1.1.3"
+  },
+  "dependencies": {
+    "babel-preset-stage-1": "^6.24.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.3.14",
+    "@storybook/addon-links": "^3.3.14",
+    "@storybook/addons": "^3.3.14",
+    "@storybook/react": "^3.3.14",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.18.1",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-watch": "^3.1.3",
+    "polished": "^1.9.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.1.6"
+  }
+}
