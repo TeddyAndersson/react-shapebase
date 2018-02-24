@@ -1,4 +1,4 @@
-> This project is currently in **early aplha and APIs are subject to change**.
+> This project is currently in **early alpha and APIs are subject to change**.
 # React Shapebase
 [![npm](https://img.shields.io/npm/v/react-shapebase.svg)](https://www.npmjs.com/package/react-shapebase)
 
@@ -18,7 +18,7 @@ cd react-shapebase && npm install
 To work in the project you'd need a `node` version supporting ES6 syntax. Although the project is built using Babel we use some ES6 features in the development server. Consider using [nvm](https://github.com/creationix/nvm) or [n](https://github.com/tj/n) to handle different node versions!
 
 ## Authors and Contributors
-The project is being initially developed and maintained by [Teddy Andersson](https://github.com/TeddyAndersson) and the [contribution scene](https://github.com/TeddyAndersson/react-shapebase/graphs/contributors) is open for anyone with an intresst for the project to join. I want to create reference components so any contribution is very welcome.
+The project is being initially developed and maintained by [Teddy Andersson](https://github.com/TeddyAndersson) and the [contribution scene](https://github.com/TeddyAndersson/react-shapebase/graphs/contributors) is open for anyone with an interest for the project to join. I want to create reference components so any contribution is very welcome.
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/react-shapebase/react-shapebase/blob/master/LICENSE).
