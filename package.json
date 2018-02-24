@@ -45,7 +45,8 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.24.1",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "styled-components": "^3.1.6"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.3.14",
