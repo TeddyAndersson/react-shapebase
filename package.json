@@ -2,7 +2,7 @@
   "name": "react-shapebase",
   "version": "1.0.0",
   "description": "Shapebase is a React component library based on the fundamentals of shapes. It makes for easy web development, creation of great user interfaces and development of Single Page Applications.",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "build": "babel lib -d build",
     "build:watch": "babel lib -w -d build",
@@ -25,7 +25,10 @@
     "Ui library",
     "toolkit"
   ],
-  "author": "Teddy Andersson",
+  "author": {
+    "name": "Teddy Andersson",
+    "email": "teddy.andersson@applauder.se"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TeddyAndersson/react-shapebase/issues"
@@ -61,8 +64,8 @@
     "eslint-watch": "^3.1.3",
     "polished": "^1.9.2",
     "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
     "styled-components": "^3.1.6"
   }
 }
