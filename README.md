@@ -2,7 +2,7 @@
 # React Shapebase
 [![npm](https://img.shields.io/npm/v/react-shapebase.svg)](https://www.npmjs.com/package/react-shapebase)
 
-React Shapebase is a set of [React](http://facebook.github.io/react/) components that are based on the fundamentals of shapes and basic geometry. The library is inspired by [Atomic-Design](http://bradfrost.com/blog/post/atomic-web-design/) and [Googles Material Design](https://material.io/guidelines/). The library will harmoniously integrate with your webpack workflow, although you can use any other module bundler.
+**React Shapebase is a set of [React](http://facebook.github.io/react/) components that are based on the fundamentals of shapes and basic geometry**. The library is inspired by [Atomic-Design](http://bradfrost.com/blog/post/atomic-web-design/) and [Googles Material Design](https://material.io/guidelines/). The library will harmoniously integrate with your webpack workflow, although you can use any other module bundler.
 
 **Note:**  ⚠️ This source code is currenlty experimental and are in a very early alpha phase.
 
