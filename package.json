@@ -1,6 +1,6 @@
 {
   "name": "react-shapebase",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "Shapebase is a React component library based on the fundamentals of shapes. It makes for easy web development, creation of great user interfaces and development of Single Page Applications.",
   "main": "build/index.js",
   "scripts": {
@@ -47,14 +47,13 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.24.1",
     "lodash": "^4.17.5",
-    "react-fontawesome": "^1.6.1",
-    "styled-components": "^3.1.6"
+    "react-fontawesome": "^1.6.1"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^3.3.14",
-    "@storybook/addon-links": "^3.3.14",
-    "@storybook/addons": "^3.3.14",
-    "@storybook/react": "^3.3.14",
+    "@storybook/addon-actions": "^3.3.15",
+    "@storybook/addon-links": "^3.3.15",
+    "@storybook/addons": "^3.3.15",
+    "@storybook/react": "^3.3.15",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
@@ -76,6 +75,6 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "styled-components": "^3.1.6"
+    "styled-components": "^3.2.1"
   }
 }
