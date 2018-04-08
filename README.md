@@ -23,5 +23,4 @@ The project is being initially developed and maintained by [Teddy Andersson](htt
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/react-shapebase/react-shapebase/blob/master/LICENSE).
 
-<img alt="logo" src="https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo.png" width="70px" height="70px" />
-![logo](https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo_black.png | width:70px)
+<img alt="logo" src="https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo.png" width="150px" height="150px" />
