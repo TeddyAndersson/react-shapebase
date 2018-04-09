@@ -1,4 +1,7 @@
 > This project is currently in **early alpha and APIs are subject to change**.
+
+<img alt="logo" src="https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo.png" width="160px" height="150px" />
+
 # React Shapebase
 [![npm](https://img.shields.io/npm/v/react-shapebase.svg)](https://www.npmjs.com/package/react-shapebase)
 
@@ -22,4 +25,3 @@ The project is being initially developed and maintained by [Teddy Andersson](htt
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/react-shapebase/react-shapebase/blob/master/LICENSE).
-
