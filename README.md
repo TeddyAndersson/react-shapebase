@@ -1,5 +1,5 @@
 > This project is currently in **early alpha and APIs are subject to change**.
-<img alt="logo" src="https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo.png" width="150px" height="150px" />
+<img alt="logo" src="https://github.com/TeddyAndersson/react-shapebase/blob/master/storybook-static/shapebaselogo.png" width="160px" height="150px" />
 # React Shapebase
 [![npm](https://img.shields.io/npm/v/react-shapebase.svg)](https://www.npmjs.com/package/react-shapebase)
 
