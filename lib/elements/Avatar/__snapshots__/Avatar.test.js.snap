@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Avatar 1`] = `
+<div
+  className="sc-bxivhb jPGMqf sc-htpNat hKvKQW sc-bdVaJa fSzclR"
+  onClick={[Function]}
+>
+  <p>
+    S
+  </p>
+</div>
+`;

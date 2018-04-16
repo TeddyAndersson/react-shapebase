@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Container 1`] = `
+<div
+  className="sc-bwzfXH faVpcD"
+>
+  <div
+    className="sc-bdVaJa gdNUZi"
+  >
+    <div
+      className="sc-htpNat eUMCnr"
+    >
+      A container with it's text left aligned
+    </div>
+  </div>
+</div>
+`;
