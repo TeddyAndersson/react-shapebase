@@ -47,7 +47,8 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.24.1",
     "lodash": "^4.17.5",
-    "react-fontawesome": "^1.6.1"
+    "react-fontawesome": "^1.6.1",
+    "styled-components": "^3.2.3"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.3.15",
@@ -74,7 +75,6 @@
     "polished": "^1.9.2",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "styled-components": "^3.2.3"
+    "react-dom": "^16.0.0"
   }
 }
