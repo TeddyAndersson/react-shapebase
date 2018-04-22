@@ -51,7 +51,8 @@
     "@fortawesome/react-fontawesome": "0.0.18",
     "babel-preset-stage-1": "^6.24.1",
     "lodash": "^4.17.5",
-    "react-fontawesome": "^1.6.1"
+    "react-fontawesome": "^1.6.1",
+    "styled-components": "^3.2.3"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.3.15",
@@ -83,6 +84,5 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-test-renderer": "^16.3.2",
-    "styled-components": "^3.2.3"
   }
 }
