@@ -1,6 +1,6 @@
 {
   "name": "react-shapebase",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "Shapebase is a React component library based on the fundamentals of shapes. It makes for easy web development, creation of great user interfaces and development of Single Page Applications.",
   "main": "build/index.js",
   "scripts": {
@@ -83,6 +83,6 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-test-renderer": "^16.3.2",
+    "react-test-renderer": "^16.3.2"
   }
 }

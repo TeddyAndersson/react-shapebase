@@ -19,7 +19,7 @@ module.exports = {
             presets: ['env']
           }
         }
-      }
+      },
     ]
   },
   externals: {
