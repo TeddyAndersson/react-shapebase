@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Icon 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-rocket sc-bdVaJa dSDeol"
+/>
+`;

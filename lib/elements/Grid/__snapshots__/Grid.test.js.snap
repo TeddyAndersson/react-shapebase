@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Grid 1`] = `
+<div
+  className="sc-bwzfXH gYzJkf"
+>
+  <div
+    className="sc-bdVaJa QaxH"
+  >
+    Item one
+  </div>
+  <div
+    className="sc-bdVaJa QaxH"
+  >
+    Item two
+  </div>
+  <div
+    className="sc-bdVaJa QaxH"
+  >
+    Item three
+  </div>
+  <div
+    className="sc-bdVaJa QaxH"
+  >
+    Item four
+  </div>
+</div>
+`;

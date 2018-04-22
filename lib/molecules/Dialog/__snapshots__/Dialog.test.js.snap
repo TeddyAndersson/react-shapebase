@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Dialog 1`] = `
+Array [
+  <div
+    aria-hidden="true"
+    className="sc-EHOje ifNJRA"
+    onClick={[Function]}
+  />,
+  <div
+    className="sc-gzVnrw ljIbNP"
+  >
+     
+    <div
+      className="sc-jzJRlG cLhrnS sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+    >
+      <header
+        className="sc-dnqmqq eWlMhx"
+      >
+        <h2
+          className="sc-htoDjs eiMTPU"
+        >
+          Hey i'm a dialog!
+        </h2>
+      </header>
+      <div
+        className="sc-gZMcBi jVOSnQ"
+      >
+        <div
+          className="sc-iwsKbI McfkQ"
+        >
+          <div
+            className="sc-jTzLTM ekKGkL sc-gqjmRU hVVkNI"
+          >
+            <p
+              className="sc-VigVT cjUJUz"
+            >
+              And I have some dialog content
+            </p>
+          </div>
+        </div>
+      </div>
+      <footer
+        className="sc-fjdhpX bgZqJX"
+      >
+        <div
+          className="sc-gZMcBi YVBNn"
+        >
+          <div
+            className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+            color="primary"
+            disabled={false}
+            href={undefined}
+            onClick={[Function]}
+            role="button"
+          >
+            <span>
+               
+              Cancel
+               
+            </span>
+          </div>
+          <div
+            className="sc-bdVaJa fwvoUB sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+            color="primary"
+            disabled={false}
+            href={undefined}
+            onClick={[Function]}
+            role="button"
+          >
+            <span>
+               
+              Agree
+               
+            </span>
+          </div>
+        </div>
+      </footer>
+    </div>
+     
+  </div>,
+]
+`;
+
+exports[`should render Dialog.Actions 1`] = `
+<footer
+  className="sc-fjdhpX bgZqJX"
+>
+  <div
+    className="sc-gZMcBi YVBNn"
+  >
+    <div
+      className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+      color="primary"
+      disabled={false}
+      href={undefined}
+      onClick={[Function]}
+      role="button"
+    >
+      <span>
+         
+        Cancel
+         
+      </span>
+    </div>
+    <div
+      className="sc-bdVaJa fwvoUB sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+      color="primary"
+      disabled={false}
+      href={undefined}
+      onClick={[Function]}
+      role="button"
+    >
+      <span>
+         
+        Agree
+         
+      </span>
+    </div>
+  </div>
+</footer>
+`;
+
+exports[`should render Dialog.Content 1`] = `
+<div
+  className="sc-gZMcBi jVOSnQ"
+>
+  <div
+    className="sc-iwsKbI McfkQ"
+  >
+    <div
+      className="sc-jTzLTM ekKGkL sc-gqjmRU hVVkNI"
+    >
+      <p
+        className="sc-VigVT cjUJUz"
+      >
+        And I have some dialog content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should render Dialog.Header 1`] = `
+<header
+  className="sc-dnqmqq eWlMhx"
+>
+  <h2
+    className="sc-htoDjs eiMTPU"
+  >
+    Hey i'm a dialog!
+  </h2>
+</header>
+`;

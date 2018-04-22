@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Heading 1`] = `
+<h1
+  className="sc-bdVaJa cHoKWU"
+>
+  Heading size one
+</h1>
+`;
