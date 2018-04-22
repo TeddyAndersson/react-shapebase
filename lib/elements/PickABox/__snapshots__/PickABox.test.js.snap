@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render PickABox 1`] = `
+<ul
+  className="sc-htpNat cRByQz"
+>
+  <li
+    onClick={[Function]}
+  >
+    <div
+      className="sc-bwzfXH cRQsEN sc-bdVaJa jmjnGv"
+    >
+      <input
+        autoComplete="off"
+        name="Man"
+        type="hidden"
+        value="1"
+      />
+      <div>
+        <i>
+           A 
+        </i>
+      </div>
+      <div>
+        <span>
+          Man
+        </span>
+      </div>
+    </div>
+  </li>
+  <li
+    onClick={[Function]}
+  >
+    <div
+      className="sc-bwzfXH cRQsEN sc-bdVaJa jmjnGv"
+    >
+      <input
+        autoComplete="off"
+        name="Kvinna"
+        type="hidden"
+        value="2"
+      />
+      <div>
+        <i>
+           A 
+        </i>
+      </div>
+      <div>
+        <span>
+          Kvinna
+        </span>
+      </div>
+    </div>
+  </li>
+  <li
+    onClick={[Function]}
+  >
+    <div
+      className="sc-bwzfXH cRQsEN sc-bdVaJa jmjnGv"
+    >
+      <input
+        autoComplete="off"
+        name="Annat"
+        type="hidden"
+        value="3"
+      />
+      <div>
+        <i>
+           A 
+        </i>
+      </div>
+      <div>
+        <span>
+          Annat
+        </span>
+      </div>
+    </div>
+  </li>
+</ul>
+`;

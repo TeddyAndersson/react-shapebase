@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Stepper 1`] = `
+<div
+  data-component="Stepper"
+>
+  <div>
+    <div
+      className="sc-bdVaJa bDWFJH"
+      data-component="Step"
+      disabled={false}
+      style={Object {}}
+    >
+      <p
+        className="sc-bdVaJa bDWFJH"
+      >
+         Yo Two 
+      </p>
+    </div>
+  </div>
+</div>
+`;

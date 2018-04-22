@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ThisOrThat 1`] = `
+<ul
+  className="sc-htpNat leYLMy"
+>
+  <li
+    onClick={[Function]}
+  >
+    <div
+      className="sc-bwzfXH lipQua sc-bdVaJa jmjnGv"
+    >
+      <input
+        autoComplete="off"
+        name="T-rex"
+        type="hidden"
+        value="1"
+      />
+      <div>
+        <p>
+          <span>
+            T-rex
+          </span>
+        </p>
+      </div>
+    </div>
+  </li>
+  <li
+    onClick={[Function]}
+  >
+    <div
+      className="sc-bwzfXH lipQua sc-bdVaJa jmjnGv"
+    >
+      <input
+        autoComplete="off"
+        name="Raptor"
+        type="hidden"
+        value="2"
+      />
+      <div>
+        <p>
+          <span>
+            Raptor
+          </span>
+        </p>
+      </div>
+    </div>
+  </li>
+</ul>
+`;

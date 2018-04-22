@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Input 1`] = `
+<div
+  className="sc-htpNat dNnxgZ sc-bwzfXH lipQua sc-bdVaJa fSzclR"
+>
+  <input
+    autoComplete="off"
+    disabled={undefined}
+    name="nodejs"
+    onChange={[Function]}
+    placeholder="Just a placeholder"
+    type="text"
+    value={undefined}
+  />
+</div>
+`;
