@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render CircleShape 1`] = `
+<div
+  className="sc-htpNat hKvKQW sc-bdVaJa fSzclR"
+/>
+`;
+
+exports[`should render RectangleShape 1`] = `
+<div
+  className="sc-bwzfXH lipQua sc-bdVaJa fSzclR"
+/>
+`;
+
+exports[`should render SquareShape 1`] = `
+<div
+  className="sc-bxivhb etHYcS sc-bdVaJa fSzclR"
+/>
+`;

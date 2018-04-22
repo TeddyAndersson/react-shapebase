@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Button 1`] = `
+<div
+  className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+  color="primary"
+  disabled={false}
+  href={undefined}
+  onClick={[Function]}
+  role="button"
+>
+  <span>
+    Default
+  </span>
+</div>
+`;

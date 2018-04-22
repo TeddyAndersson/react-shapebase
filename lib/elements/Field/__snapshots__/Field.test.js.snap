@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Field 1`] = `
+<fieldset
+  className="sc-bxivhb giFaBF"
+  type="text"
+>
+  <p
+    className="sc-htpNat hxUdsp"
+  >
+    A field with text input
+  </p>
+</fieldset>
+`;

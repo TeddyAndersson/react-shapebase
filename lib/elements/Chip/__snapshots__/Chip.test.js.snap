@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Chip 1`] = `
+<div
+  className="sc-EHOje crPIKJ sc-bxivhb hZGozX sc-bdVaJa fSzclR"
+>
+  <p
+    className="sc-ifAKCX hBvcyL"
+  >
+    Just a chip
+  </p>
+</div>
+`;
