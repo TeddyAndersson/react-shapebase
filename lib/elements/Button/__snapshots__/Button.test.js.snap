@@ -2,7 +2,7 @@
 
 exports[`should render Button 1`] = `
 <div
-  className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+  className="sc-bdVaJa bUIzkr sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
   color="primary"
   disabled={false}
   href={undefined}
