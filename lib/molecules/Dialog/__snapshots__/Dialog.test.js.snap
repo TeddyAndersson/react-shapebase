@@ -4,36 +4,36 @@ exports[`should render Dialog 1`] = `
 Array [
   <div
     aria-hidden="true"
-    className="sc-EHOje ifNJRA"
+    className="sc-bZQynM ppJum"
     onClick={[Function]}
   />,
   <div
-    className="sc-gzVnrw ljIbNP"
+    className="sc-htoDjs jbwKzz"
   >
      
     <div
-      className="sc-jzJRlG cLhrnS sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+      className="sc-cSHVUG jXoPvl sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
     >
       <header
-        className="sc-dnqmqq eWlMhx"
+        className="sc-iwsKbI gWFyxR"
       >
         <h2
-          className="sc-htoDjs eiMTPU"
+          className="sc-dnqmqq qsuKL"
         >
           Hey i'm a dialog!
         </h2>
       </header>
       <div
-        className="sc-gZMcBi jVOSnQ"
+        className="sc-gqjmRU hslCP"
       >
         <div
-          className="sc-iwsKbI McfkQ"
+          className="sc-gZMcBi gpjlLd"
         >
           <div
-            className="sc-jTzLTM ekKGkL sc-gqjmRU hVVkNI"
+            className="sc-fjdhpX jCpuec sc-VigVT dwEcYe"
           >
             <p
-              className="sc-VigVT cjUJUz"
+              className="sc-jTzLTM hhCCxI"
             >
               And I have some dialog content
             </p>
@@ -41,13 +41,13 @@ Array [
         </div>
       </div>
       <footer
-        className="sc-fjdhpX bgZqJX"
+        className="sc-jzJRlG Zmevq"
       >
         <div
-          className="sc-gZMcBi YVBNn"
+          className="sc-gqjmRU gVYQnP"
         >
           <div
-            className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+            className="sc-bdVaJa bUIzkr sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
             color="primary"
             disabled={false}
             href={undefined}
@@ -61,7 +61,7 @@ Array [
             </span>
           </div>
           <div
-            className="sc-bdVaJa fwvoUB sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+            className="sc-bdVaJa fntDxJ sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
             color="primary"
             disabled={false}
             href={undefined}
@@ -84,13 +84,13 @@ Array [
 
 exports[`should render Dialog.Actions 1`] = `
 <footer
-  className="sc-fjdhpX bgZqJX"
+  className="sc-jzJRlG Zmevq"
 >
   <div
-    className="sc-gZMcBi YVBNn"
+    className="sc-gqjmRU gVYQnP"
   >
     <div
-      className="sc-bdVaJa fLeRSV sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+      className="sc-bdVaJa bUIzkr sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
       color="primary"
       disabled={false}
       href={undefined}
@@ -104,7 +104,7 @@ exports[`should render Dialog.Actions 1`] = `
       </span>
     </div>
     <div
-      className="sc-bdVaJa fwvoUB sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
+      className="sc-bdVaJa fntDxJ sc-htpNat fLfkdc sc-bwzfXH iRJfEt"
       color="primary"
       disabled={false}
       href={undefined}
@@ -123,16 +123,16 @@ exports[`should render Dialog.Actions 1`] = `
 
 exports[`should render Dialog.Content 1`] = `
 <div
-  className="sc-gZMcBi jVOSnQ"
+  className="sc-gqjmRU hslCP"
 >
   <div
-    className="sc-iwsKbI McfkQ"
+    className="sc-gZMcBi gpjlLd"
   >
     <div
-      className="sc-jTzLTM ekKGkL sc-gqjmRU hVVkNI"
+      className="sc-fjdhpX jCpuec sc-VigVT dwEcYe"
     >
       <p
-        className="sc-VigVT cjUJUz"
+        className="sc-jTzLTM hhCCxI"
       >
         And I have some dialog content
       </p>
@@ -143,10 +143,10 @@ exports[`should render Dialog.Content 1`] = `
 
 exports[`should render Dialog.Header 1`] = `
 <header
-  className="sc-dnqmqq eWlMhx"
+  className="sc-iwsKbI gWFyxR"
 >
   <h2
-    className="sc-htoDjs eiMTPU"
+    className="sc-dnqmqq qsuKL"
   >
     Hey i'm a dialog!
   </h2>

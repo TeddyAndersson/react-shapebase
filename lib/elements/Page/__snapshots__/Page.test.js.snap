@@ -2,7 +2,7 @@
 
 exports[`should render Page 1`] = `
 <main
-  className="sc-bdVaJa juXNCe"
+  className="sc-bdVaJa epNqie"
 >
   This is a Page component. It purpose is to cover the with and the hight of a Html Body.
 </main>
