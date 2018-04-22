@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Loader 1`] = `
+<span
+  className="sc-bdVaJa bSzbyX"
+  color="#000"
+  size={1}
+/>
+`;
